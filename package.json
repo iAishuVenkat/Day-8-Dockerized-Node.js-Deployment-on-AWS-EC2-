@@ -1,0 +1,12 @@
+{
+  "name": "docker-ec2-app",
+  "version": "1.0.0",
+  "description": "Basic Node.js app for Docker deployment on EC2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
