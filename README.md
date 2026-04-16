@@ -14,6 +14,7 @@ That's it. No complicated setup on every machine, no "it works on my computer" p
 
 ## What is Docker?
 
+
 Imagine you made a sandwich at home and it tasted perfect. But when you try to make the same sandwich at a friend's house, it tastes different because they have different bread, different butter, different everything.
 
 Docker solves this problem for software.
